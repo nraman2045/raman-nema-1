@@ -8,7 +8,7 @@ import githubLight from "../../assets/github-light.svg";
 import githubDark from "../../assets/github-dark.svg";
 import instagramLight from "../../assets/instagram-alt.svg";
 import instagramDark from "../../assets/inst.png";
-import CV from "../../assets/CV.png";
+import CV from "../../assets/Raman_Nema CV.pdf";
 import { useTheme } from '../../common/ThemeContext';
 
 function Hero() {
